@@ -28,4 +28,4 @@ I've begun diving into machine learning as I believe that is the future.
 Other things I have dabbled in are: VueJS, Arduino, Raspberry Pi, Python, and more.
 
 ### Contact
-X (Formerly Twitter): @Bob_Ironthighs
+X (Formerly Twitter): [@Bob_Ironthighs](https://www.x.com/Bob_Ironthighs)
